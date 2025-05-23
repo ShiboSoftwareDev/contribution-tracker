@@ -1,5 +1,16 @@
 [
   {
+    "tag": "tscircuit/schematic-viewer#94",
+    "number": 94,
+    "title": "Refactor z-index values in EditIcon and SchematicViewer components",
+    "description": "",
+    "impact": "Minor",
+    "contributor": "ArnavK-09",
+    "repo": "tscircuit/schematic-viewer",
+    "url": "https://github.com/tscircuit/schematic-viewer/pull/94",
+    "isAlignedWithMilestone": false
+  },
+  {
     "tag": "tscircuit/pcb-viewer#288",
     "number": 288,
     "title": "remove circuit-to-svg package (causing issue in dependendant packages)",
