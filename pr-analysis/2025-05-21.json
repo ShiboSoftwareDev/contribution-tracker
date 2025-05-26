@@ -11,6 +11,17 @@
     "isAlignedWithMilestone": false
   },
   {
+    "tag": "tscircuit/pcb-viewer#293",
+    "number": 293,
+    "title": "add support pill_hole_with_rect_pad and circular_hole_with_rect_pad",
+    "description": "",
+    "impact": "Minor",
+    "contributor": "techmannih",
+    "repo": "tscircuit/pcb-viewer",
+    "url": "https://github.com/tscircuit/pcb-viewer/pull/293",
+    "isAlignedWithMilestone": false
+  },
+  {
     "tag": "tscircuit/pcb-viewer#288",
     "number": 288,
     "title": "remove circuit-to-svg package (causing issue in dependendant packages)",
