@@ -1,0 +1,13 @@
+[
+  {
+    "tag": "tscircuit/pcb-viewer#297",
+    "number": 297,
+    "title": "support nine point anchor alignment for silkscreen texts",
+    "description": "",
+    "impact": "Minor",
+    "contributor": "ShiboSoftwareDev",
+    "repo": "tscircuit/pcb-viewer",
+    "url": "https://github.com/tscircuit/pcb-viewer/pull/297",
+    "isAlignedWithMilestone": false
+  }
+]
