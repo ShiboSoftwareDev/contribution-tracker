@@ -1,5 +1,16 @@
 [
   {
+    "tag": "tscircuit/schematic-viewer#96",
+    "number": 96,
+    "title": "Fix background color when panning schematic",
+    "description": "",
+    "impact": "Minor",
+    "contributor": "seveibar",
+    "repo": "tscircuit/schematic-viewer",
+    "url": "https://github.com/tscircuit/schematic-viewer/pull/96",
+    "isAlignedWithMilestone": false
+  },
+  {
     "tag": "tscircuit/pcb-viewer#297",
     "number": 297,
     "title": "support nine point anchor alignment for silkscreen texts",
