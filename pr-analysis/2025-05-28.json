@@ -11,6 +11,28 @@
     "isAlignedWithMilestone": false
   },
   {
+    "tag": "tscircuit/pcb-viewer#313",
+    "number": 313,
+    "title": "draw silkscreen rect filled and/or dashed",
+    "description": "",
+    "impact": "Minor",
+    "contributor": "ShiboSoftwareDev",
+    "repo": "tscircuit/pcb-viewer",
+    "url": "https://github.com/tscircuit/pcb-viewer/pull/313",
+    "isAlignedWithMilestone": false
+  },
+  {
+    "tag": "tscircuit/pcb-viewer#309",
+    "number": 309,
+    "title": "refactor!: port to react cosmos",
+    "description": "",
+    "impact": "Minor",
+    "contributor": "ArnavK-09",
+    "repo": "tscircuit/pcb-viewer",
+    "url": "https://github.com/tscircuit/pcb-viewer/pull/309",
+    "isAlignedWithMilestone": false
+  },
+  {
     "tag": "tscircuit/pcb-viewer#297",
     "number": 297,
     "title": "support nine point anchor alignment for silkscreen texts",
