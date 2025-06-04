@@ -1,0 +1,13 @@
+[
+  {
+    "tag": "tscircuit/pcb-viewer#317",
+    "number": 317,
+    "title": "chore(deps): remove Storybook dependencies and related scripts from package.json and bun.lock",
+    "description": "",
+    "impact": "Minor",
+    "contributor": "ArnavK-09",
+    "repo": "tscircuit/pcb-viewer",
+    "url": "https://github.com/tscircuit/pcb-viewer/pull/317",
+    "isAlignedWithMilestone": false
+  }
+]
