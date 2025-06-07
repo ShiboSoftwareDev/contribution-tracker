@@ -1,5 +1,16 @@
 [
   {
+    "tag": "tscircuit/pcb-viewer#322",
+    "number": 322,
+    "title": "silkscreen text horizontally inverted in the bottom layer",
+    "description": "",
+    "impact": "Minor",
+    "contributor": "ShiboSoftwareDev",
+    "repo": "tscircuit/pcb-viewer",
+    "url": "https://github.com/tscircuit/pcb-viewer/pull/322",
+    "isAlignedWithMilestone": false
+  },
+  {
     "tag": "tscircuit/pcb-viewer#317",
     "number": 317,
     "title": "chore(deps): remove Storybook dependencies and related scripts from package.json and bun.lock",
