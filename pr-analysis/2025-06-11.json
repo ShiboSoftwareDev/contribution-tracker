@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "tag": "tscircuit/pcb-viewer#331",
+    "number": 331,
+    "title": "fix(z-index): unable to access toolbar while errors are there",
+    "description": "",
+    "impact": "Minor",
+    "contributor": "ArnavK-09",
+    "repo": "tscircuit/pcb-viewer",
+    "url": "https://github.com/tscircuit/pcb-viewer/pull/331",
+    "isAlignedWithMilestone": false
+  }
+]
